@@ -11,4 +11,4 @@ A simple app to fix the Gesture Pill not going away in fullscreen mode on the Lo
 2. Fully expand the notification bar, click on the Edit button on the bottom-left to edit the tiles.
 3. Drag the Spin tile (spiral icon) to the first area. Save it.
 
-Now everytime you run into this bug, just activate the Spin tile, the screen will rotate for a few seconds and the pill will be gone.
+Now everytime you run into this bug, just activate the Spin tile, the screen will rotate a few times and the pill will be gone.
