@@ -1,5 +1,5 @@
 # Spin
-A simple app to fix the Gesture Pill not going away in fullscreen mode on the Logitech G Cloud.  
+A simple app to *temporary* fix the Gesture Pill not going away in fullscreen mode on the Logitech G Cloud.  
 - Only apply to Tablet mode.
 - No root needed.
 - It can't be run directly, instead you need to activate it using a Tile in the Notification bar.  
