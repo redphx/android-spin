@@ -12,3 +12,5 @@ A simple app to *temporary* fix the Gesture Pill not going away in fullscreen mo
 3. Drag the Spin tile (spiral icon) to the first area. Save it.
 
 Now everytime you run into this bug, just activate the Spin tile, the screen will rotate a few times and the pill will be gone.
+
+- Icon by https://phosphoricons.com
